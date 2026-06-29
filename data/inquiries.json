@@ -1,0 +1,350 @@
+[
+  {
+    "id": "FB-2026-00001",
+    "productId": "oversized-tees",
+    "productName": "Oversized Tees",
+    "type": "sample",
+    "fabric": "100% Organic Ring-Spun Cotton",
+    "gsm": "280 GSM",
+    "size": "L",
+    "color": "Vintage Brown",
+    "name": "Dr. Alexander Sterling",
+    "email": "sterling@haute-streetwear.com",
+    "brand": "Sterling Couture",
+    "volume": "Sample Spec (1 Pcs)",
+    "message": "We need this sample with custom heavy washed enzyme finishing for lookbook approval.",
+    "techPackUrl": null,
+    "logoUrl": null,
+    "designUrl": null,
+    "referenceImageUrl": null,
+    "leadScore": "Small Lead",
+    "status": "Sampling",
+    "timestamp": "2026-05-30T13:09:25.768Z",
+    "notes": [
+      {
+        "text": "Spoke to buyer Alexander. They want highly distressed enzyme washing.",
+        "author": "Rishi",
+        "createdAt": "2026-05-30"
+      }
+    ]
+  },
+  {
+    "id": "FB-2026-00002",
+    "productId": "oversized-tees",
+    "productName": "Oversized Tees",
+    "type": "sample",
+    "fabric": "Premium Heavyweight Cotton Jersey",
+    "gsm": "240 GSM",
+    "size": "XS",
+    "color": "Jet Black",
+    "name": "Rishi Rajan",
+    "email": "rishidevr007@gmail.com",
+    "brand": "vuedata",
+    "volume": "Sample Spec (1 Pcs)",
+    "message": "GSM preference",
+    "techPackUrl": null,
+    "logoUrl": null,
+    "designUrl": null,
+    "referenceImageUrl": null,
+    "leadScore": "Small Lead",
+    "status": "Closed",
+    "timestamp": "2026-05-30T13:11:55.223Z",
+    "notes": [
+      {
+        "text": "RFQ Submitted",
+        "author": "System",
+        "createdAt": "2026-05-30"
+      },
+      {
+        "text": "Status updated from New to Closed",
+        "author": "System",
+        "createdAt": "2026-05-30"
+      }
+    ]
+  },
+  {
+    "id": "FB-2026-00003",
+    "productId": "sweatshirts",
+    "productName": "Sweatshirts",
+    "type": "quotation",
+    "fabric": "Diagonal Fleece Loopback",
+    "gsm": "360 GSM",
+    "size": "XS",
+    "color": "Heather Gray",
+    "name": "Rishi Rajan",
+    "email": "rishidevr007@gmail.com",
+    "brand": "vuedata",
+    "volume": "300 - 1,000 Pcs",
+    "message": "tags",
+    "techPackUrl": null,
+    "logoUrl": null,
+    "designUrl": null,
+    "referenceImageUrl": null,
+    "leadScore": "Medium Lead",
+    "status": "Production",
+    "timestamp": "2026-05-30T13:13:12.722Z",
+    "notes": [
+      {
+        "text": "RFQ Submitted",
+        "author": "System",
+        "createdAt": "2026-05-30"
+      },
+      {
+        "text": "Status updated from New to Production",
+        "author": "System",
+        "createdAt": "2026-05-30"
+      }
+    ]
+  },
+  {
+    "id": "FB-2026-00004",
+    "productId": "oversized-tees",
+    "productName": "Oversized Tees",
+    "type": "sample",
+    "fabric": "100% Organic Ring-Spun Cotton",
+    "gsm": "240 GSM",
+    "size": "XS",
+    "color": "Off-White",
+    "name": "Rishi Rajan",
+    "email": "rishidevr007@gmail.com",
+    "brand": "vuedata",
+    "volume": "Sample Spec (1 Pcs)",
+    "message": "deadline",
+    "techPackUrl": "/uploads/1780147601760_Screenshot_2025-10-09_124329.png",
+    "logoUrl": null,
+    "designUrl": null,
+    "referenceImageUrl": null,
+    "leadScore": "Small Lead",
+    "status": "Quoted",
+    "timestamp": "2026-05-30T13:26:41.762Z",
+    "notes": [
+      {
+        "text": "RFQ Submitted",
+        "author": "System",
+        "createdAt": "2026-05-30"
+      },
+      {
+        "text": "Status updated from New to Quoted",
+        "author": "System",
+        "createdAt": "2026-05-30"
+      }
+    ]
+  },
+  {
+    "id": "FB-2026-00005",
+    "productId": "oversized-tees",
+    "productName": "Oversized Tees",
+    "type": "sample",
+    "fabric": "100% Organic Ring-Spun Cotton",
+    "gsm": "240 GSM",
+    "size": "XS",
+    "color": "Off-White",
+    "name": "rishi dev r",
+    "email": "rishidevr08@gmail.com",
+    "brand": "r",
+    "volume": "Sample Spec (1 Pcs)",
+    "message": "deadline",
+    "techPackUrl": null,
+    "logoUrl": null,
+    "designUrl": null,
+    "referenceImageUrl": null,
+    "leadScore": "Small Lead",
+    "status": "Contacted",
+    "timestamp": "2026-05-30T14:10:28.721Z",
+    "notes": [
+      {
+        "text": "RFQ Submitted",
+        "author": "System",
+        "createdAt": "2026-05-30"
+      },
+      {
+        "text": "Status updated from New to Contacted",
+        "author": "System",
+        "createdAt": "2026-05-30"
+      }
+    ]
+  },
+  {
+    "id": "FB-2026-00006",
+    "productId": "hoodies",
+    "productName": "Hoodies",
+    "type": "sample",
+    "fabric": "100% French Terry Cotton",
+    "gsm": "400 GSM",
+    "size": "S",
+    "color": "Midnight Blue",
+    "name": "rishi dev r",
+    "email": "rishidevr08@gmail.com",
+    "brand": "r",
+    "volume": "Sample Spec (1 Pcs)",
+    "message": "deadline",
+    "techPackUrl": "/uploads/1780150352120_4dde9e353bf988d12255d86eab811673.jpg",
+    "logoUrl": null,
+    "designUrl": null,
+    "referenceImageUrl": null,
+    "leadScore": "Small Lead",
+    "status": "Sampling",
+    "timestamp": "2026-05-30T14:12:32.132Z",
+    "notes": [
+      {
+        "text": "RFQ Submitted",
+        "author": "System",
+        "createdAt": "2026-05-30"
+      },
+      {
+        "text": "Status updated from New to Contacted",
+        "author": "System",
+        "createdAt": "2026-05-30"
+      },
+      {
+        "text": "Status updated from Contacted to New",
+        "author": "System",
+        "createdAt": "2026-05-30"
+      },
+      {
+        "text": "Status updated from New to Sampling",
+        "author": "System",
+        "createdAt": "2026-05-30"
+      }
+    ]
+  },
+  {
+    "id": "FB-2026-00007",
+    "productId": "oversized-tees",
+    "productName": "Oversized Tees",
+    "type": "sample",
+    "fabric": "100% Organic Ring-Spun Cotton",
+    "gsm": "240 GSM",
+    "size": "XS",
+    "color": "Off-White",
+    "name": "Rishi Rajan",
+    "email": "rishidevr007@gmail.com",
+    "brand": "vuedata",
+    "volume": "Sample Spec (1 Pcs)",
+    "scope": "Private Label Production",
+    "phone": "",
+    "message": "Sourcing program request.",
+    "techPackUrl": null,
+    "logoUrl": null,
+    "designUrl": null,
+    "referenceImageUrl": null,
+    "leadScore": "Small Lead",
+    "status": "Closed",
+    "notes": [
+      {
+        "text": "RFQ Submitted",
+        "author": "System",
+        "createdAt": "2026-05-30"
+      },
+      {
+        "text": "Status updated from New to Closed",
+        "author": "System",
+        "createdAt": "2026-06-01"
+      }
+    ],
+    "timestamp": "2026-05-30T16:34:50.259Z"
+  },
+  {
+    "id": "FB-2026-00008",
+    "productId": "hoodies",
+    "productName": "Hoodies",
+    "type": "sample",
+    "fabric": "100% French Terry Cotton",
+    "gsm": "400 GSM",
+    "size": "S",
+    "color": "Midnight Blue",
+    "name": "Rishi Dev R",
+    "email": "rishi@gmail.com",
+    "brand": "vuedata",
+    "volume": "Sample Spec (1 Pcs)",
+    "scope": "Private Label Production",
+    "phone": "+919911223344",
+    "message": "data",
+    "techPackUrl": null,
+    "logoUrl": null,
+    "designUrl": null,
+    "referenceImageUrl": null,
+    "leadScore": "Small Lead",
+    "status": "Closed",
+    "notes": [
+      {
+        "text": "RFQ Submitted",
+        "author": "System",
+        "createdAt": "2026-05-31"
+      },
+      {
+        "text": "Status updated from New to Contacted",
+        "author": "System",
+        "createdAt": "2026-05-31"
+      },
+      {
+        "text": "Status updated from Contacted to Closed",
+        "author": "System",
+        "createdAt": "2026-05-31"
+      }
+    ],
+    "timestamp": "2026-05-31T15:49:19.598Z"
+  },
+  {
+    "id": "FB-2026-00009",
+    "productId": "polos",
+    "productName": "Polos",
+    "type": "quotation",
+    "fabric": "Premium Piqué Cotton",
+    "gsm": "220 GSM",
+    "size": "S",
+    "color": "Sage Green",
+    "name": "ff",
+    "email": "rdx",
+    "brand": "fffff",
+    "volume": "300 - 1,000 Pcs",
+    "scope": "Private Label Production",
+    "phone": "ggc",
+    "message": "dd",
+    "techPackUrl": null,
+    "logoUrl": null,
+    "designUrl": null,
+    "referenceImageUrl": null,
+    "leadScore": "Medium Lead",
+    "status": "New",
+    "notes": [
+      {
+        "text": "RFQ Submitted",
+        "author": "System",
+        "createdAt": "2026-06-01"
+      }
+    ],
+    "timestamp": "2026-06-01T10:53:02.569Z"
+  },
+  {
+    "id": "FB-2026-00010",
+    "productId": "sweatshirts",
+    "productName": "Sweatshirts",
+    "type": "quotation",
+    "fabric": "Diagonal Fleece Loopback",
+    "gsm": "360 GSM",
+    "size": "XS",
+    "color": "Heather Gray",
+    "name": "vf",
+    "email": "fffc",
+    "brand": "cc",
+    "volume": "5,000+ Pcs",
+    "scope": "Private Label Production",
+    "phone": "fff",
+    "message": "ggfcfg",
+    "techPackUrl": null,
+    "logoUrl": null,
+    "designUrl": null,
+    "referenceImageUrl": null,
+    "leadScore": "High Value Lead",
+    "status": "New",
+    "notes": [
+      {
+        "text": "RFQ Submitted",
+        "author": "System",
+        "createdAt": "2026-06-01"
+      }
+    ],
+    "timestamp": "2026-06-01T10:55:56.688Z"
+  }
+]
